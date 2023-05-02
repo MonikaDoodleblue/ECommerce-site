@@ -1,0 +1,567 @@
+2023-04-29T13:08:51.026Z, info, POST /admin/register, admin created
+2023-04-29T13:09:09.032Z, info, POST /admin/register, admin created
+2023-04-29T13:09:21.673Z, info, POST /admin/register, admin created
+2023-04-29T13:09:52.746Z, info, POST /admin/register, admin created
+2023-04-29T13:15:19.582Z, error, POST /admin/register, unable to create
+2023-04-29T13:15:21.700Z, error, POST /admin/register, unable to create
+2023-04-29T13:15:51.663Z, error, POST /admin/register, unable to create
+2023-04-29T13:18:08.884Z, error, POST /admin/register, unable to create
+2023-04-29T13:19:42.183Z, info, POST /admin/register, admin created
+2023-04-29T13:20:23.513Z, info, POST /admin/register, admin created
+2023-04-29T13:46:30.846Z, info, POST /admin/register, user registered
+2023-04-29T13:54:00.169Z, info, POST /admin/register, registered successfully
+2023-04-29T13:55:20.656Z, info, POST /admin/register, registered successfully
+2023-04-29T13:55:50.513Z, info, POST /admin/register, registered successfully
+2023-04-29T13:56:15.140Z, info, POST /admin/register, registered successfully
+2023-04-29T14:00:10.936Z, info, POST /admin/register, registered successfully
+2023-04-29T14:00:58.908Z, info, POST /admin/register, registered successfully
+2023-04-29T14:33:46.784Z, info, POST /admin/register, registered successfully
+2023-04-29T14:51:22.126Z, info, POST /admin/login, login successfully
+2023-04-29T14:52:48.621Z, info, POST /admin/login, login successfully
+2023-04-29T14:55:31.552Z, info, POST /admin/login, login successfully
+2023-04-29T14:56:46.498Z, info, POST /admin/login, login successfully
+2023-04-29T15:33:29.896Z, info, POST /admin/login, login successfully
+2023-04-29T15:34:07.444Z, info, POST /admin/login, login successfully
+2023-04-29T15:34:17.962Z, info, POST /admin/login, login successfully
+2023-04-29T15:35:07.354Z, info, POST /admin/login, login successfully
+2023-04-29T15:35:17.416Z, info, POST /admin/login, login successfully
+2023-04-29T15:45:28.859Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-29T15:52:00.082Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-29T15:56:30.626Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-29T16:00:07.059Z, info, POST /admin/login, login successfully
+2023-04-29T16:08:55.267Z, info, POST /admin/login, login successfully
+2023-04-29T16:12:29.789Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-29T16:12:42.895Z, info, POST /admin/login, login successfully
+2023-04-29T16:13:07.295Z, info, POST /admin/login, login successfully
+2023-04-29T16:14:24.173Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-30T00:39:24.174Z, info, POST /admin/login, login successfully
+2023-04-30T00:39:39.564Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-30T00:48:36.817Z, error, GET /admin/listProducts, unable to fetch
+2023-04-30T00:51:58.961Z, error, GET /admin/listProducts, unable to fetch products
+2023-04-30T00:52:59.938Z, error, GET /admin/listProducts, unable to fetch
+2023-04-30T00:57:14.334Z, error, GET /admin/listProducts, unable to fetch
+2023-04-30T01:12:49.364Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:15:20.931Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:15:33.662Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:15:41.687Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:16:22.576Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:16:28.528Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:16:39.302Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:16:43.415Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:16:47.012Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:16:55.146Z, info, POST /admin/login, login successfully
+2023-04-30T01:17:37.595Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:17:48.189Z, info, POST /admin/login, login successfully
+2023-04-30T01:17:58.362Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:21:17.513Z, info, POST /admin/login, login successfully
+2023-04-30T01:21:29.944Z, info, POST /admin/uploadProduct,  file uploaded
+2023-04-30T01:21:46.421Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:25:27.450Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:25:38.765Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:26:46.499Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T01:28:33.228Z, info, POST /admin/login, login successfully
+2023-04-30T01:36:52.776Z, info, POST /admin/register, registered successfully
+2023-04-30T01:37:01.590Z, info, POST /admin/register, registered successfully
+2023-04-30T01:37:27.574Z, info, POST /admin/register, registered successfully
+2023-04-30T01:37:45.709Z, info, POST /admin/register, registered successfully
+2023-04-30T01:38:11.690Z, info, POST /admin/login, login successfully
+2023-04-30T01:38:26.420Z, info, POST /admin/uploadProducts,  file uploaded
+2023-04-30T01:38:33.272Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T02:54:48.390Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T02:55:06.213Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T02:55:49.885Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T03:08:11.880Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T03:13:42.866Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T03:14:00.034Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T03:17:28.616Z, info, POST /admin/login, login successfully
+2023-04-30T03:18:47.119Z, info, POST /admin/login, login successfully
+2023-04-30T03:24:27.608Z, info, POST /admin/login, login successfully
+2023-04-30T03:25:41.012Z, info, POST /admin/login, login successfully
+2023-04-30T03:26:34.066Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T03:27:14.939Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T03:27:33.125Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:31:34.612Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:32:08.060Z, info, POST /admin/login, login successfully
+2023-04-30T03:32:28.733Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:37:49.441Z, info, POST /admin/register, registered successfully
+2023-04-30T03:38:35.032Z, info, POST /admin/register, registered successfully
+2023-04-30T03:39:04.387Z, info, POST /admin/register, registered successfully
+2023-04-30T03:39:27.073Z, info, POST /admin/register, registered successfully
+2023-04-30T03:39:49.743Z, info, POST /admin/login, login successfully
+2023-04-30T03:40:50.774Z, info, POST /admin/login, login successfully
+2023-04-30T03:41:05.521Z, info, POST /admin/uploadProducts,  file uploaded
+2023-04-30T03:41:16.846Z, info, POST /admin/login, login successfully
+2023-04-30T03:41:28.526Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:42:10.429Z, info, POST /admin/login, login successfully
+2023-04-30T03:42:37.624Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:44:17.638Z, info, POST /admin/login, login successfully
+2023-04-30T03:55:58.690Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:55:58.704Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T03:56:39.784Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T03:56:39.800Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:03:34.414Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:03:34.509Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:06:51.057Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:06:51.154Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:07:34.498Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:07:34.669Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:12:36.132Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:12:36.226Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:13:28.338Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:13:28.427Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:14:26.623Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:14:26.796Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:15:45.301Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:15:46.134Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:15:53.054Z, info, POST /admin/login, login successfully
+2023-04-30T04:16:12.771Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:16:13.142Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:17:40.797Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:17:42.793Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:18:47.833Z, info, POST /admin/register, registered successfully
+2023-04-30T04:19:29.141Z, info, POST /admin/login, login successfully
+2023-04-30T04:19:42.039Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:19:43.411Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:25:44.619Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:25:46.298Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:26:29.158Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:26:31.420Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:27:01.021Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:27:03.085Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:29:27.307Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:29:27.320Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:30:08.462Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:30:10.618Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:30:38.777Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:30:41.011Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:31:22.405Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:31:24.869Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:33:59.434Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:34:00.999Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:34:38.448Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:34:39.965Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:38:03.906Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:40:18.719Z, info, POST /admin/login, login successfully
+2023-04-30T04:40:39.137Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:42:09.791Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:44:04.662Z, info, POST /admin/register, registered successfully
+2023-04-30T04:44:27.593Z, info, POST /admin/login, login successfully
+2023-04-30T04:45:06.458Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:51:49.435Z, info, POST /admin/login, login successfully
+2023-04-30T04:52:05.442Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:52:26.083Z, error, POST /admin/createOrder, unable to purchase
+2023-04-30T04:52:54.622Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:53:55.343Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:55:54.636Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:56:30.105Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T04:59:10.696Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T05:00:06.446Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T05:01:08.641Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T06:04:38.493Z, info, POST /admin/login, login successfully
+2023-04-30T06:06:43.650Z, info, POST /admin/register, registered successfully
+2023-04-30T06:07:53.678Z, info, POST /admin/register, registered successfully
+2023-04-30T06:08:20.129Z, info, POST /admin/register, registered successfully
+2023-04-30T06:08:31.845Z, info, POST /admin/register, registered successfully
+2023-04-30T06:09:01.378Z, info, POST /admin/register, registered successfully
+2023-04-30T06:09:28.135Z, info, POST /admin/register, registered successfully
+2023-04-30T06:09:41.538Z, info, POST /admin/register, registered successfully
+2023-04-30T06:10:01.033Z, info, POST /admin/register, registered successfully
+2023-04-30T06:10:39.999Z, info, POST /admin/login, login successfully
+2023-04-30T06:10:54.265Z, info, POST /admin/uploadProducts,  file uploaded
+2023-04-30T06:11:01.729Z, info, GET /admin/listProducts, product fetched successfully
+2023-04-30T06:11:32.482Z, info, POST /admin/login, login successfully
+2023-04-30T06:12:28.438Z, info, POST /admin/login, login successfully
+2023-04-30T06:12:57.330Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T06:14:39.733Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T06:16:39.910Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T06:32:26.648Z, info, POST /admin/createOrder, purchased successfully
+2023-04-30T06:33:17.924Z, info, POST /admin/login, login successfully
+2023-04-30T06:44:47.275Z, info, POST /app/login, login successfully
+2023-04-30T06:45:55.314Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T07:06:27.683Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T07:11:28.870Z, error, PUT /app/updateOrder/2, unable to update order
+2023-04-30T07:11:50.185Z, error, PUT /app/updateOrder/2, unable to update order
+2023-04-30T07:14:38.958Z, error, PUT /app/updateOrder/2, unable to update order
+2023-04-30T07:14:48.974Z, error, PUT /app/updateOrder/2, unable to update order
+2023-04-30T07:31:53.770Z, error, PUT /app/updateOrder/1, unable to update order
+2023-04-30T07:34:30.414Z, info, POST /app/login, login successfully
+2023-04-30T08:32:24.120Z, info, POST /app/login, login successfully
+2023-04-30T08:48:26.940Z, info, PUT /app/updateOrder/1, purchased successfully
+2023-04-30T08:50:50.437Z, info, POST /app/login, login successfully
+2023-04-30T08:51:14.956Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T08:51:56.884Z, info, PUT /app/updateOrder/3, purchased successfully
+2023-04-30T08:52:50.485Z, info, PUT /app/updateOrder/3, purchased successfully
+2023-04-30T08:53:27.740Z, info, PUT /app/updateOrder/3, purchased successfully
+2023-04-30T08:56:02.411Z, info, PUT /app/updateOrder/3, purchased successfully
+2023-04-30T08:56:02.443Z, error, PUT /app/updateOrder/3, unable to update order
+2023-04-30T08:56:05.226Z, info, PUT /app/updateOrder/3, purchased successfully
+2023-04-30T08:56:05.241Z, error, PUT /app/updateOrder/3, unable to update order
+2023-04-30T08:56:20.088Z, info, PUT /app/updateOrder/3, purchased successfully
+2023-04-30T08:57:01.727Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T08:57:34.292Z, info, PUT /app/updateOrder/4, purchased successfully
+2023-04-30T08:58:50.162Z, info, PUT /app/updateOrder/4, purchased successfully
+2023-04-30T08:59:48.476Z, info, POST /app/login, login successfully
+2023-04-30T09:00:29.223Z, info, PUT /app/updateOrder/1, purchased successfully
+2023-04-30T09:03:48.621Z, info, POST /app/register, registered successfully
+2023-04-30T09:04:09.342Z, info, POST /app/login, login successfully
+2023-04-30T09:04:37.700Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T09:05:38.369Z, info, PUT /app/updateOrder/5, purchased successfully
+2023-04-30T09:08:16.768Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T09:12:45.498Z, info, POST /app/login, login successfully
+2023-04-30T09:18:43.865Z, error, DELETE /app/cancelOrder/6, Unable to delete
+2023-04-30T09:30:23.832Z, info, DELETE /app/cancelOrder/6, order deleted successfully
+2023-04-30T09:39:38.241Z, info, POST /app/login, login successfully
+2023-04-30T09:39:51.533Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T09:40:13.066Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T09:42:49.319Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:05:02.074Z, info, POST /app/login, login successfully
+2023-04-30T10:07:22.248Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:08:07.205Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:14:04.328Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:15:01.977Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:15:14.898Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:27:18.326Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:27:23.636Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:27:37.383Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:27:57.922Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T10:29:09.366Z, info, POST /app/login, login successfully
+2023-04-30T10:32:02.104Z, error, GET /app/listOrders, unable to fetch
+2023-04-30T10:32:13.944Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:32:26.100Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:14.868Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:18.506Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:34.267Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:44.211Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:46.430Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:48.928Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T10:33:56.148Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T12:53:42.494Z, info, POST /app/login, login successfully
+2023-04-30T12:59:06.815Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T12:59:21.666Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:02:26.121Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:03:01.372Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:03:20.468Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:03:37.216Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:03:54.637Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:04:22.585Z, info, POST /app/login, login successfully
+2023-04-30T13:04:32.492Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:04:51.193Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:05:28.281Z, info, POST /app/login, login successfully
+2023-04-30T13:05:42.742Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:06:58.916Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:15:16.665Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:17:03.614Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:17:59.348Z, error, GET /app/listOrders, unable to fetch
+2023-04-30T13:18:14.824Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:19:15.633Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:19:39.963Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:20:22.152Z, info, POST /app/login, login successfully
+2023-04-30T13:23:40.848Z, info, POST /app/login, login successfully
+2023-04-30T13:23:50.746Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:24:11.260Z, info, POST /app/login, login successfully
+2023-04-30T13:32:37.823Z, info, POST /app/login, login successfully
+2023-04-30T13:32:47.609Z, info, GET /app/listOrders, Orders fetched successfully
+2023-04-30T13:32:58.437Z, info, POST /app/login, login successfully
+2023-04-30T13:39:21.924Z, error, GET /app/listOrders, unable to fetch
+2023-04-30T13:39:23.495Z, error, GET /app/listOrders, unable to fetch
+2023-04-30T13:47:22.407Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:47:49.609Z, info, POST /app/login, login successfully
+2023-04-30T13:48:01.408Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:48:23.112Z, info, POST /app/login, login successfully
+2023-04-30T13:48:32.348Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:48:46.404Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:49:01.815Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:49:22.170Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:50:53.391Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:51:10.729Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:51:19.489Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T13:53:22.714Z, info, POST /app/register, registered successfully
+2023-04-30T13:53:52.570Z, info, POST /app/login, login successfully
+2023-04-30T13:54:14.082Z, info, POST /app/login, login successfully
+2023-04-30T13:54:33.095Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:54:43.460Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:54:51.252Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:54:57.560Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:55:06.484Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:55:08.331Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:55:13.157Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:55:39.366Z, info, POST /app/login, login successfully
+2023-04-30T13:55:55.030Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:56:02.436Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T13:56:13.118Z, info, POST /app/login, login successfully
+2023-04-30T13:56:30.742Z, info, GET /app/listOrders, orders fetched successfully
+2023-04-30T14:37:38.805Z, info, POST /app/login, login successfully
+2023-04-30T15:25:10.112Z, info, POST /app/register, registered successfully
+2023-04-30T15:26:24.490Z, info, POST /app/register, registered successfully
+2023-04-30T15:26:43.226Z, info, POST /app/register, registered successfully
+2023-04-30T15:27:02.054Z, info, POST /app/register, registered successfully
+2023-04-30T15:27:16.780Z, info, POST /app/register, registered successfully
+2023-04-30T15:27:41.614Z, info, POST /app/login, login successfully
+2023-04-30T15:29:12.632Z, info, POST /app/login, login successfully
+2023-04-30T15:29:40.028Z, info, POST /app/uploadProducts, file uploaded successfully
+2023-04-30T15:29:52.751Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T15:30:01.260Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T15:30:04.307Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T15:30:10.092Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T15:30:22.520Z, info, POST /app/login, login successfully
+2023-04-30T15:30:33.095Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T15:31:18.791Z, info, POST /app/login, login successfully
+2023-04-30T15:31:53.889Z, info, PUT /app/editProduct/10, product edited successfully
+2023-04-30T15:32:34.415Z, info, POST /app/login, login successfully
+2023-04-30T15:33:36.052Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:35:32.346Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:36:34.438Z, info, POST /app/login, login successfully
+2023-04-30T15:36:53.570Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:37:39.754Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:39:42.248Z, info, PUT /app/updateOrder/4, order updated successfully
+2023-04-30T15:40:44.454Z, info, POST /app/login, login successfully
+2023-04-30T15:41:02.380Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:42:13.024Z, info, DELETE /app/cancelOrder/5, order deleted successfully
+2023-04-30T15:44:06.715Z, info, POST /app/login, login successfully
+2023-04-30T15:44:16.938Z, info, GET /app/listOrders, order fetched successfully
+2023-04-30T15:44:50.248Z, info, POST /app/login, login successfully
+2023-04-30T15:45:00.064Z, info, GET /app/listOrders, order fetched successfully
+2023-04-30T15:45:13.397Z, info, GET /app/listOrders, order fetched successfully
+2023-04-30T15:45:32.044Z, info, GET /app/listProducts, product fetched successfully
+2023-04-30T15:55:33.483Z, info, POST /app/login, login successfully
+2023-04-30T15:56:15.090Z, error, DELETE /app/cancelOrder/4, unable to delete
+2023-04-30T15:58:26.133Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:58:38.514Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T15:59:01.619Z, error, DELETE /app/cancelOrder/6, unable to delete
+2023-04-30T16:02:15.349Z, info, DELETE /app/cancelOrder/7, order deleted successfully
+2023-04-30T16:06:15.668Z, info, DELETE /app/cancelOrder/3, order deleted successfully
+2023-04-30T16:11:53.977Z, info, POST /app/createOrder, purchased successfully
+2023-04-30T16:16:09.490Z, info, PUT /app/updateOrder/8, order updated successfully
+2023-04-30T16:16:09.496Z, error, PUT /app/updateOrder/8, unable to update
+2023-04-30T16:19:04.814Z, info, PUT /app/updateOrder/8, order updated successfully
+2023-04-30T16:19:45.871Z, info, PUT /app/updateOrder/8, order updated successfully
+2023-04-30T16:19:45.873Z, error, PUT /app/updateOrder/8, unable to update
+2023-04-30T16:20:48.112Z, info, PUT /app/updateOrder/8, order updated successfully
+2023-04-30T16:31:46.687Z, info, PUT /app/updateOrder/8, order updated successfully
+2023-04-30T16:42:16.219Z, info, POST /app/login, login successfully
+2023-04-30T16:42:27.244Z, info, GET /app/listOrders, order fetched successfully
+2023-04-30T16:42:37.970Z, info, GET /app/listProducts, product fetched successfully
+2023-05-01T06:00:53.890Z, info, POST /app/login, login successfully
+2023-05-01T06:01:16.273Z, info, GET /app/listProducts, product fetched successfully
+2023-05-01T06:03:16.538Z, info, GET /app/listProducts, product fetched successfully
+2023-05-01T06:03:22.231Z, info, GET /app/listProducts, product fetched successfully
+2023-05-01T06:57:29.758Z, info, POST /app/login, login successfully
+2023-05-01T06:57:59.982Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T06:58:00.030Z, error, POST /app/createOrder, unable to purchase
+2023-05-01T06:58:28.451Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T07:00:51.695Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T07:28:50.197Z, info, POST /app/login, login successfully
+2023-05-01T07:31:01.322Z, error, DELETE /app/cancelOrder/11, unable to cancel order
+2023-05-01T07:43:53.537Z, info, DELETE /app/cancelOrder/10, order deleted successfully
+2023-05-01T07:48:28.736Z, info, DELETE /app/cancelOrder/2, order deleted successfully
+2023-05-01T07:48:51.945Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T07:50:22.335Z, info, DELETE /app/cancelOrder/12, order deleted successfully
+2023-05-01T07:55:05.830Z, info, DELETE /app/cancelOrder/1, order deleted successfully
+2023-05-01T14:22:36.922Z, info, POST /app/login, login successfully
+2023-05-01T14:23:28.440Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T14:23:43.627Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T14:24:12.150Z, error, GET /app/listOrders, unable to fetch
+2023-05-01T14:24:27.558Z, error, GET /app/listOrders, No data found
+2023-05-01T14:24:51.782Z, error, GET /app/listOrders, No data found
+2023-05-01T14:25:30.373Z, error, GET /app/listOrders, No data found
+2023-05-01T14:26:02.582Z, error, GET /app/listOrders, No data found
+2023-05-01T14:26:25.796Z, error, GET /app/listOrders, No data found
+2023-05-01T14:28:52.067Z, error, GET /app/listOrders, No data found
+2023-05-01T14:29:23.184Z, error, GET /app/listOrders, No data found
+2023-05-01T14:29:25.705Z, error, GET /app/listOrders, No data found
+2023-05-01T14:29:27.178Z, error, GET /app/listOrders, No data found
+2023-05-01T14:30:02.927Z, error, GET /app/listOrders, No data found
+2023-05-01T14:31:06.067Z, error, GET /app/listOrders, No data found
+2023-05-01T14:33:15.504Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:36:06.988Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:38:33.893Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:38:40.586Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:38:47.909Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:38:55.849Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:44:00.867Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:46:19.972Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:50:30.411Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:50:35.411Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:50:52.626Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:50:56.285Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:51:36.522Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:51:43.273Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:51:51.034Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:52:47.566Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:54:21.415Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T14:56:10.301Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:02:23.959Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:09:22.059Z, info, POST /app/register, registered successfully
+2023-05-01T15:09:49.160Z, info, POST /app/register, registered successfully
+2023-05-01T15:10:08.570Z, info, POST /app/register, registered successfully
+2023-05-01T15:10:22.351Z, info, POST /app/register, registered successfully
+2023-05-01T15:10:34.657Z, info, POST /app/register, registered successfully
+2023-05-01T15:10:45.460Z, info, POST /app/register, registered successfully
+2023-05-01T15:11:41.312Z, info, POST /app/login, login successfully
+2023-05-01T15:12:02.535Z, info, POST /app/uploadProducts, file uploaded successfully
+2023-05-01T15:12:19.140Z, info, POST /app/uploadProducts, file uploaded successfully
+2023-05-01T15:12:50.031Z, info, POST /app/uploadProducts, file uploaded successfully
+2023-05-01T15:13:16.323Z, info, PUT /app/editProduct/10, product edited successfully
+2023-05-01T15:13:33.096Z, info, POST /app/login, login successfully
+2023-05-01T15:14:03.138Z, info, GET /app/listProducts, product fetched successfully
+2023-05-01T15:14:34.640Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:15:28.122Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:15:38.266Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:15:58.778Z, info, PUT /app/updateOrder/3, order updated successfully
+2023-05-01T15:16:08.658Z, info, PUT /app/updateOrder/3, order updated successfully
+2023-05-01T15:16:14.810Z, info, PUT /app/updateOrder/3, order updated successfully
+2023-05-01T15:16:41.448Z, info, POST /app/login, login successfully
+2023-05-01T15:17:03.724Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:17:13.004Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:17:23.452Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:18:12.828Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:18:42.706Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:18:52.779Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:18:59.594Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:19:10.952Z, info, POST /app/login, login successfully
+2023-05-01T15:19:32.370Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:19:39.594Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:20:27.700Z, info, POST /app/login, login successfully
+2023-05-01T15:20:45.956Z, info, POST /app/createOrder, purchased successfully
+2023-05-01T15:21:18.157Z, info, DELETE /app/cancelOrder/8, order deleted successfully
+2023-05-01T15:34:13.504Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:34:20.443Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:34:27.302Z, info, GET /app/listOrders, order fetched successfully
+2023-05-01T15:34:46.348Z, info, POST /app/login, login successfully
+2023-05-01T15:43:25.169Z, info, POST /app/login, login successfully
+2023-05-01T15:43:41.059Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T04:33:28.380Z, info, POST /app/login, login successfully
+2023-05-02T04:34:06.631Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T04:54:43.587Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T04:57:26.640Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T04:57:34.461Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T04:57:36.203Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T04:57:43.328Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T05:18:11.539Z, info, POST /app/register, registered successfully
+2023-05-02T05:18:26.980Z, info, POST /app/login, login successfully
+2023-05-02T05:18:47.945Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T05:19:21.500Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T05:19:49.753Z, info, DELETE /app/cancelOrder/10, order deleted successfully
+2023-05-02T05:21:00.092Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T05:21:19.842Z, info, DELETE /app/cancelOrder/11, order deleted successfully
+2023-05-02T05:30:01.358Z, info, POST /app/login, login successfully
+2023-05-02T05:30:42.107Z, info, DELETE /app/cancelOrder/9, order deleted successfully
+2023-05-02T06:13:37.696Z, info, POST /app/register, registered successfully
+2023-05-02T06:17:39.107Z, info, POST /app/register, registered successfully
+2023-05-02T06:18:10.364Z, info, POST /app/register, registered successfully
+2023-05-02T06:18:33.060Z, info, POST /app/register, registered successfully
+2023-05-02T06:19:16.638Z, info, POST /app/register, registered successfully
+2023-05-02T06:19:44.122Z, info, POST /app/login, login successfully
+2023-05-02T06:20:10.251Z, info, POST /app/uploadProducts, file uploaded successfully
+2023-05-02T06:20:53.907Z, info, POST /app/login, login successfully
+2023-05-02T06:21:51.127Z, info, PUT /app/editProduct/10, product edited successfully
+2023-05-02T06:21:53.180Z, info, PUT /app/editProduct/10, product edited successfully
+2023-05-02T06:22:17.715Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:22:35.485Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:22:45.840Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:23:17.350Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:23:27.216Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:23:48.267Z, info, POST /app/login, login successfully
+2023-05-02T06:24:06.743Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:24:17.653Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:24:26.321Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:24:56.625Z, info, POST /app/login, login successfully
+2023-05-02T06:25:28.119Z, info, PUT /app/updateOrder/3, order updated successfully
+2023-05-02T06:25:57.988Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T06:30:43.732Z, info, DELETE /app/cancelOrder/9, order deleted successfully
+2023-05-02T06:32:25.789Z, info, POST /app/login, login successfully
+2023-05-02T06:32:36.038Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:32:47.936Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T06:33:24.367Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:33:48.856Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:34:01.947Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:34:11.796Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:34:47.275Z, info, POST /app/login, login successfully
+2023-05-02T06:34:58.041Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T06:35:01.784Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:36:07.008Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T06:36:30.885Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T06:37:55.387Z, info, POST /app/login, login successfully
+2023-05-02T07:00:31.885Z, info, POST /app/login, login successfully
+2023-05-02T07:09:28.215Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:09:46.213Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:09:51.538Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:13:02.982Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T07:13:38.838Z, info, DELETE /app/cancelOrder/10, order deleted successfully
+2023-05-02T07:15:53.480Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:16:03.761Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:17:34.653Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:17:45.603Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:17:50.801Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:21:09.583Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:21:18.857Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:21:26.503Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:27:36.626Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:29:43.356Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:29:57.089Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:30:07.028Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:30:57.453Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:31:03.742Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:31:09.983Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:35:10.695Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:35:18.716Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:35:24.539Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:38:03.472Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:38:17.294Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:38:24.906Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:46:24.366Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T07:47:35.521Z, info, POST /app/login, login successfully
+2023-05-02T07:48:03.407Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T08:05:57.670Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T08:07:39.223Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T08:12:06.337Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T08:12:13.303Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T08:12:22.240Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T08:40:00.451Z, info, POST /app/login, login successfully
+2023-05-02T08:40:22.845Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T08:41:32.129Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:07:33.022Z, info, POST /app/register, registered successfully
+2023-05-02T09:07:56.025Z, info, POST /app/register, registered successfully
+2023-05-02T09:08:19.956Z, info, POST /app/register, registered successfully
+2023-05-02T09:08:36.088Z, info, POST /app/register, registered successfully
+2023-05-02T09:09:03.786Z, info, POST /app/register, registered successfully
+2023-05-02T09:09:25.252Z, info, POST /app/register, registered successfully
+2023-05-02T09:09:51.345Z, info, POST /app/login, login successfully
+2023-05-02T09:10:04.751Z, info, POST /app/uploadProducts, file uploaded successfully
+2023-05-02T09:10:24.021Z, info, PUT /app/editProduct/10, product edited successfully
+2023-05-02T09:11:00.467Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:11:19.264Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:12:22.130Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:12:33.888Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:13:05.854Z, info, POST /app/login, login successfully
+2023-05-02T09:13:19.279Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:14:15.894Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:15:23.640Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:15:43.871Z, info, POST /app/login, login successfully
+2023-05-02T09:16:11.675Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:18:16.157Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:19:26.648Z, info, POST /app/login, login successfully
+2023-05-02T09:19:58.532Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:20:13.706Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:20:21.220Z, info, POST /app/createOrder, purchased successfully
+2023-05-02T09:20:48.171Z, info, DELETE /app/cancelOrder/8, order deleted successfully
+2023-05-02T09:21:29.709Z, info, PUT /app/updateOrder/1, order updated successfully
+2023-05-02T09:22:42.703Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:22:51.656Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:23:00.501Z, info, POST /app/login, login successfully
+2023-05-02T09:23:09.294Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:23:34.740Z, info, POST /app/login, login successfully
+2023-05-02T09:23:44.075Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:26:19.185Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:29:08.649Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:29:46.360Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:29:48.670Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:29:58.316Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:30:06.231Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:30:27.694Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:30:35.471Z, info, GET /app/listOrders, order fetched successfully
+2023-05-02T09:30:39.739Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:31:06.694Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:31:13.069Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:31:34.115Z, info, GET /app/listProducts, product fetched successfully
+2023-05-02T09:31:40.731Z, info, GET /app/listProducts, product fetched successfully

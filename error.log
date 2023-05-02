@@ -1,0 +1,68 @@
+{"error":{},"level":"error","message":"unable to create","path":"POST /admin/register","service":"site"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /admin/register","service":"site"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /admin/register","service":"site"}
+{"error":{},"level":"error","message":"unable to create","path":"POST /admin/register","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/listProducts","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch products","path":"GET /admin/listProducts","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/listProducts","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /admin/listProducts","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"address":"127.0.0.1","code":"ESOCKET","command":"CONN","errno":-4078,"port":465,"syscall":"connect"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"address":"127.0.0.1","code":"ESOCKET","command":"CONN","errno":-4078,"port":465,"syscall":"connect"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"address":"127.0.0.1","code":"ESOCKET","command":"CONN","errno":-4078,"port":465,"syscall":"connect"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"address":"127.0.0.1","code":"ESOCKET","command":"CONN","errno":-4078,"port":465,"syscall":"connect"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"address":"127.0.0.1","code":"ESOCKET","command":"CONN","errno":-4078,"port":465,"syscall":"connect"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"address":"127.0.0.1","code":"ESOCKET","command":"CONN","errno":-4078,"port":465,"syscall":"connect"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"ESOCKET","command":"CONN","library":"SSL routines","reason":"wrong version number"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"ESOCKET","command":"CONN","library":"SSL routines","reason":"wrong version number"},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"534-5.7.9 Application-specific password required. Learn more at\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor k11-20020a170902694b00b0019309be03e7sm15512332plt.66 - gsmtp","responseCode":534},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"534-5.7.9 Application-specific password required. Learn more at\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor jl16-20020a170903135000b001a216d44440sm15567102plb.200 - gsmtp","responseCode":534},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"534-5.7.9 Application-specific password required. Learn more at\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor m21-20020a170902bb9500b001a060007fcbsm5842770pls.213 - gsmtp","responseCode":534},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"534-5.7.9 Application-specific password required. Learn more at\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor k11-20020a170902694b00b0019309be03e7sm15522078plt.66 - gsmtp","responseCode":534},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"534-5.7.9 Application-specific password required. Learn more at\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor m1-20020a170902db0100b001aad2910194sm1893291plx.14 - gsmtp","responseCode":534},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials f12-20020a170902684c00b001a6d08eb054sm15571516pln.78 - gsmtp","responseCode":535},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials bx19-20020a17090af49300b0024b6a90741esm13692803pjb.49 - gsmtp","responseCode":535},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials j12-20020a056a00174c00b00634b91326a9sm18237355pfc.143 - gsmtp","responseCode":535},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials j16-20020a635510000000b00528af015a8dsm3872063pgb.14 - gsmtp","responseCode":535},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{"code":"EAUTH","command":"AUTH PLAIN","response":"535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials z12-20020a1709028f8c00b001a27e5ee634sm15618111plo.33 - gsmtp","responseCode":535},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /admin/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/2","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/2","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/2","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/2","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/1","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/3","service":"site"}
+{"error":{},"level":"error","message":"unable to update order","path":"PUT /app/updateOrder/3","service":"site"}
+{"error":{},"level":"error","message":"Unable to delete","path":"DELETE /app/cancelOrder/6","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /app/listOrders","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /app/listOrders","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /app/listOrders","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /app/listOrders","service":"site"}
+{"error":{},"level":"error","message":"unable to delete","path":"DELETE /app/cancelOrder/4","service":"site"}
+{"error":{},"level":"error","message":"unable to delete","path":"DELETE /app/cancelOrder/6","service":"site"}
+{"error":{},"level":"error","message":"unable to update","path":"PUT /app/updateOrder/8","service":"site"}
+{"error":{},"level":"error","message":"unable to update","path":"PUT /app/updateOrder/8","service":"site"}
+{"error":{},"level":"error","message":"unable to purchase","path":"POST /app/createOrder","service":"site"}
+{"error":{},"level":"error","message":"unable to cancel order","path":"DELETE /app/cancelOrder/11","service":"site"}
+{"error":{},"level":"error","message":"unable to fetch","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
+{"level":"error","message":"No data found","path":"GET /app/listOrders","service":"site"}
